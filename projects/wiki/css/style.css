@@ -1,0 +1,33 @@
+/* roboto 
+font-family: 'Roboto Serif', sans-serif;
+Thin 100
+Thin 100 italic
+Extra-light 200 italic
+Medium 500
+*/
+
+/* 
+font-family: 'Roboto Condensed', sans-serif;
+Light 300
+Light 300 italic
+Regular 400
+*/
+.intro {
+    font-family: 'Roboto Serif', sans-serif;
+    color: #12309D;
+    font-size: 1.5em;
+}
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #5B92AF;
+}
+
+.info {
+    font-size: 1.2em;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+img {
+    padding: 20px;
+}
