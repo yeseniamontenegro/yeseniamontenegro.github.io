@@ -1,0 +1,93 @@
+/* 
+font-family: 'Source Sans Pro', sans-serif;
+Light 300
+Light 300 italic
+Regular 400
+Semi-bold 600
+Semi-bold 600 italic
+Bold 700
+
+font-family: 'Smooch Sans', sans-serif; 
+Light 300
+Regular 400
+Medium 500
+Semi-bold 600
+Bold 700
+
+font-family: 'Fira Sans Condensed', sans-serif;
+Thin 100
+Thin 100 italic
+Extra-light 200
+Light 300
+
+beige #D7D9B1 
+tangerine #F89358
+flax #EFDD8D 
+white #F0F0F0
+*/
+
+body {
+    background: #1C2321;
+    color: #F0F0F0;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 2em
+}
+
+
+
+nav,
+footer {
+    text-align: center;
+    margin: 25px;
+}
+
+footer p, footer b {
+    font-size: 1.4em;
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+}
+
+footer {
+    padding: 40px 0;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #EFDD8D;
+    letter-spacing: 3px;
+    padding: 15px;
+}
+
+a:hover,
+.nav-link:hover {
+    color: #F89358
+}
+
+a {
+    color: #EFDD8D;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.block img {
+    margin: 20px 0;
+}
+
+.block {
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}
