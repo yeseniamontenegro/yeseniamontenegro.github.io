@@ -1,0 +1,64 @@
+/*
+font-family: 'Playfair Display', serif;
+Regular 400
+Regular 400 italic
+Medium 500
+Semi-bold 600
+Bold 700
+Extra-bold 800
+*/
+
+/*
+font-family: 'Tinos', serif;
+Regular 400
+Regular 400 italic
+Bold 700
+Bold 700 italic
+*/
+
+body {
+    background: #B7B6C1;
+    color: #0F1108;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 3em;
+}
+
+.nav-link {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family: 'Playfair Display', serif;
+    color: #EEEEEE;
+    word-spacing: 6px;
+    font-size: 1.2em;
+    background: #042A2B;
+}
+
+
+a:hover,
+.nav-link:hover {
+    color: #EF8275
+}
+
+
+.img-fluid {
+    width: 750px;
+    height: auto;
+    padding: 60px 20px;
+
+}
+
+div {
+    text-align: center;
+}
+
+main {
+    font-family: 'Tinos', serif;
+    font-size: 1.2em;
+    padding: 20px 100px 30px 100px;
+
+}
