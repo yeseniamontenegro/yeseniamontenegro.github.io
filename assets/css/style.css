@@ -16,6 +16,15 @@ Bold 700
 Bold 700 italic
 */
 
+/*
+font-family: 'Bodoni Moda', serif;
+Regular 400
+Regular 400 italic
+Medium 500
+Semi-bold 600
+Bold 700
+*/
+
 body {
     background: #B7B6C1;
     color: #0F1108;
@@ -26,6 +35,13 @@ h1 {
     text-align: center;
     padding: 20px;
     font-size: 3em;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    padding: 50px 0 0 0;
+    font-size: 2em;
 }
 
 .nav-link {
@@ -48,8 +64,7 @@ a:hover,
 .img-fluid {
     width: 750px;
     height: auto;
-    padding: 60px 20px;
-
+    padding: 60px 40px;
 }
 
 div {
@@ -57,8 +72,7 @@ div {
 }
 
 main {
-    font-family: 'Tinos', serif;
+    font-family: 'Bodoni Moda', serif;
     font-size: 1.2em;
-    padding: 20px 100px 30px 100px;
-
+    padding: 20px 110px 30px 110px;
 }
