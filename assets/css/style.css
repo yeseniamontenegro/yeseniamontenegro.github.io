@@ -43,6 +43,10 @@ h2 {
     padding: 50px 0 0 0;
     font-size: 2em;
 }
+h3{
+    color: #3E442B;
+}
+
 
 .nav-link {
     text-transform: uppercase;
@@ -57,7 +61,7 @@ h2 {
 
 a:hover,
 .nav-link:hover {
-    color: #EF8275
+    color: #EF8275;
 }
 
 
