@@ -43,7 +43,8 @@ h2 {
     padding: 50px 0 0 0;
     font-size: 2em;
 }
-h3{
+
+h3 {
     color: #3E442B;
 }
 
@@ -79,4 +80,9 @@ main {
     font-family: 'Bodoni Moda', serif;
     font-size: 1.2em;
     padding: 20px 110px 30px 110px;
+}
+
+footer {
+    text-align: right;
+    font-size: .8em;
 }
