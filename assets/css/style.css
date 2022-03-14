@@ -18,11 +18,11 @@ Bold 700 italic
 
 /*
 font-family: 'Bodoni Moda', serif;
-Regular 400
-Regular 400 italic
 Medium 500
+Medium 500 italic
 Semi-bold 600
 Bold 700
+Bold 700 italic
 */
 
 body {
@@ -44,8 +44,9 @@ h2 {
     font-size: 2em;
 }
 
-h3 {
-    color: #3E442B;
+h3, h4 {
+    color: #3A5A40;
+    font-family: 'Bodoni Moda', serif;
 }
 
 
@@ -72,14 +73,13 @@ a:hover,
     padding: 60px 40px;
 }
 
-div {
+.img {
     text-align: center;
 }
 
-main {
+main, .exp {
     font-family: 'Bodoni Moda', serif;
     font-size: 1.2em;
-    padding: 20px 110px 30px 110px;
 }
 
 footer {
