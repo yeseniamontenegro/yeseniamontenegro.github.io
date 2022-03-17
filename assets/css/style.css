@@ -84,7 +84,7 @@ main, .exp {
 
 footer {
     text-align: right;
-    font-size: .8em;
+    font-size: .9em;
     background: #042A2B;
     color: #B7B6C1;
     font-family: 'Bodoni Moda', serif;
@@ -104,12 +104,13 @@ a {
 
 }
 
-.recent {
-    align-items: center;
-}
 
 @media (max-width: 450px) {
     .nav-link {
+        font-size: .9em;
+    }
+
+    .row {
         font-size: .9em;
     }
 }
