@@ -88,8 +88,18 @@ footer {
     background: #042A2B;
     color: #B7B6C1;
     font-family: 'Bodoni Moda', serif;
+    padding-bottom: 20px;
 }
 
 a {
-    color: #B7B6C1;
+    color: #697F5C;
+}
+
+.contact {
+    font-family: 'Bodoni Moda', serif;
+    font-size: 1.2em;
+    text-align: center;
+    padding-top: 50px;
+    border-style: dotted;
+ 
 }
