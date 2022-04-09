@@ -12,9 +12,7 @@ font-family: 'Archivo', sans-serif;
 body {
     background-color: #080707;
     color: #f5f5f5;
-    font-size: 1.125em;
-
-
+    font-size: 18px;
 }
 
 header {
@@ -32,7 +30,9 @@ h1 {
     background: #df4601;
     padding: 1% 2%;
     display: inline-block;
+
 }
+
 
 a:hover, .name {
     color: #DF4601
