@@ -1,0 +1,55 @@
+/*
+font-family: 'Frank Ruhl Libre', serif;
+*/
+
+body {
+    background: #313638;
+    color: #FFFFFF;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+img {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+.title {
+    text-align: center;
+    padding: 20px;
+    font-family: 'Bree Serif', serif;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+section {
+    width: 70%;
+    margin: auto;
+    padding: 5% 0;
+    font-size: 1.2em;
+}
+
+.chart {
+    width: 70%;
+    margin: auto;
+    padding: 5% 0;
+    font-size: 1.2em;
+}
+
+.info {
+    width: 70%;
+    margin: auto;
+    padding: 5% 0;
+    font-size: 1.2em;
+}
+
+.test {
+    align-items: center;
+    padding: 30px
+}
+
+.bars {
+    padding: 30px;
+}
