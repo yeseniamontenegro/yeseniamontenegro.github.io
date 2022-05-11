@@ -6,50 +6,65 @@ body {
     background: #313638;
     color: #FFFFFF;
     font-family: 'Frank Ruhl Libre', serif;
+    font-size: 1.2em;
+}
+
+.row img {
+    max-width: 1400px;
+    padding: 20px;
 }
 
 img {
-    width: 80%;
-    margin: 0 auto;
-    
+    padding: 0 0 3% 0;
 }
+
+
+h1 {
+    font-size: 2.5em;
+}
+
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
 
 .title {
     text-align: center;
-    padding: 20px;
+    padding: 40px 0;
     font-family: 'Bree Serif', serif;
 }
 
-h1 {
-    font-size: 3em;
+.title p {
+    font-weight: 300;
+    font-size: .8em;
 }
 
-section {
-    width: 70%;
-    margin: auto;
-    padding: 5% 0;
-    font-size: 1.2em;
+
+p {
+    padding: 0 0 2% 0;
 }
 
 .chart {
-    width: 70%;
-    margin: auto;
-    padding: 5% 0;
-    font-size: 1.2em;
+    background: #FFFFFF;
+    padding: 5%;
+    margin: 0 0 4% 0;
 }
 
-.info {
-    width: 70%;
-    margin: auto;
-    padding: 5% 0;
-    font-size: 1.2em;
+a {
+    color: #F4B942;
 }
 
-.test {
-    align-items: center;
-    padding: 30px
+a:hover,
+.nav-link:hover {
+    color: #FFD520;
+    ;
 }
 
-.bars {
-    padding: 30px;
-}
+/**
+
+
+
+
+
+**/
