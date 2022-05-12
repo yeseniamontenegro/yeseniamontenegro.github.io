@@ -72,10 +72,12 @@ a:hover,
     padding-bottom: 3%;
 }
 
-/**
+@media (max-width: 450px) {
+    h1 {
+        font-size: 1.5em;
+    }
 
-
-
-
-
-**/
+    .caption {
+        font-size: .7em;
+    }
+}
