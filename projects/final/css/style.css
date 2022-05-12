@@ -61,6 +61,12 @@ a:hover,
     ;
 }
 
+.number {
+    text-decoration: underline;
+    text-decoration-color: #E03A3E;
+    ;
+}
+
 /**
 
 
